@@ -1,0 +1,1182 @@
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|2833305|sp|Q19967|S61G_CAEEL PROTEIN TRANSPORT PROTEIN SEC61 GAMMA SUBUNIT
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 15.592
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|1173317|sp|P46761|RT14_ACACA MITOCHONDRIAL RIBOSOMAL PROTEIN S14
+
+RSLLSHHKFADAK-SLLVSYI-
+RS L+H K +  K  LL+S   
+RSVLNHFKLSRIKLRLLISNNY
+Hits = 12/22 (54.55%)
+Score = 25
+
+RSLLSHHKFADAK-SLLVS-Y
+RS L+H K +  K  LL+S  
+RSVLNHFKLSRIKLRLLISNN
+Hits = 12/21 (57.14%)
+Score = 28
+
+###Number of match sequences: 2
+###Number of hits in all sequences: 24
+###Time in seconds: 23.121
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|416696|sp|Q03422|B2MG_CYPCA BETA-2-MICROGLOBULIN PRECURSOR
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 29.994
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|2497885|sp|Q41670|MT1B_VICFA Metallothionein-like protein 1B
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 9.042
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|14424271|sp|O28146|YL34_ARCFU Hypothetical protein AF2134 precursor
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 18.773
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|2851446|sp||CO4_BOVIN_1 [Segment 1 of 3] Complement C4 precursor [Contains: C4A anaphylatoxin]
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 8.998
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|13633906|sp||RT15_BOVIN_8 [Segment 8 of 8] Mitochondrial 28S ribosomal protein S15 (MRP-S15)
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 0.105
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|18203360|sp|Q9PIK3|PAND_CAMJE Aspartate 1-decarboxylase precursor (Aspartate alpha-decarboxylase)
+
+LSGALEMMREMGQKGIKMN-TI
+L+GA   + E G K I M+ + 
+LNGAAARLAEVGDKVIIMSYAD
+Hits = 12/22 (54.55%)
+Score = 26
+
+NI-LLNG-LCKEGMTEKALNFFNTL-IEER
+NI LL   + +   TE  L++  ++ I+E 
+NITLLKSKIHRASVTEARLDYIGSISIDE-
+Hits = 16/30 (53.33%)
+Score = 25
+
+###Number of match sequences: 2
+###Number of hits in all sequences: 28
+###Time in seconds: 46.938
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|20140097|sp|Q927K6|RS10_LISMO 30S ribosomal protein S10
+
+QKMIRLKLK-
+QK IR++LK 
+QK-IRIRLKA
+Hits = 8/10 (80.00%)
+Score = 27
+
+QKM-IRLKL
+QK+ IRLK 
+QKIRIRLK-
+Hits = 7/9 (77.78%)
+Score = 25
+
+###Number of match sequences: 2
+###Number of hits in all sequences: 15
+###Time in seconds: 32.472
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|141169|sp|P19302|YORR_TTV1 HYPOTHETICAL 7.4 KD PROTEIN
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 9.997
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|126551|sp|P04210|LV1_CHICK IG LAMBDA CHAIN V-1 REGION PRECURSOR
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 31.305
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|400014|sp|P31313|HXCC_MOUSE Homeobox protein Hox-C12 (Hox-3.8)
+
+KDKKLK
+K+KKL 
+KEKKLS
+Hits = 5/6 (83.33%)
+Score = 25
+
+###Number of match sequences: 1
+###Number of hits in all sequences: 5
+###Time in seconds: 9.743
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|13878913|sp||AOFB_BOVIN_7 [Segment 7 of 11] Amine oxidase [flavin-containing] B (Monoamine oxidase) (MAO-B)
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 0.606
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|20978696|sp|Q8ZB83|RS18_YERPE 30S ribosomal protein S18
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 14.658
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|132912|sp|P25820|RL34_STRBI 50S RIBOSOMAL PROTEIN L34
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 5.172
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|1345873|sp|P49122|CX7_NAJAT Cytotoxin 7 precursor (Cardiotoxin 7) (CTX7) (Ctx-7)
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 15.929
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|141575|sp|P18393|YBDZ_ECOLI Hypothetical protein ybdZ
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 11.022
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|116089|sp|P14956|CECB_DROME Cecropin B precursor
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 11.914
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|123361|sp|P14150|HMEN_SCHAM Segmentation polarity homeobox protein engrailed (G-EN)
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 22.568
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|465370|sp|Q05293|VG78_BPML5 GENE 78 PROTEIN (GP78)
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 5.478
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|6136512|sp|O83338|Y318_TREPA Hypothetical protein TP0318
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 5.897
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|5921901|sp|O46581|CX41_THEGE Cytochrome c oxidase subunit IV isoform 1 (COX IV-1) (Cytochrome c oxidase polypeptide IV)
+
+RMVSEFKVNPDN
+RM  + KVNP  
+RML-DMKVNP-I
+Hits = 7/12 (58.33%)
+Score = 25
+
+###Number of match sequences: 1
+###Number of hits in all sequences: 7
+###Time in seconds: 64.195
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|20140111|sp|Q92H23|RS21_RICCN 30S ribosomal protein S21
+
+ELCSRGRLKEHSRSY-TS
+EL  R ++KE+ R Y T 
+ELYFR-KMKEQ-RYYETP
+Hits = 11/18 (61.11%)
+Score = 26
+
+ELCSRGRLKEHSRSYTS
+EL  R ++KE+ R Y +
+ELYFR-KMKEQ-RYYET
+Hits = 11/17 (64.71%)
+Score = 27
+
+###Number of match sequences: 2
+###Number of hits in all sequences: 22
+###Time in seconds: 20.552
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|3915471|sp|Q58975|YF80_METJA Hypothetical protein MJ1580
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 62.673
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|12643584|sp||HUNB_DROIK_2 [Segment 2 of 2] Hunchback protein
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 33.134
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|6685738|sp|O58415|PORD_PYRHO Pyruvate synthase subunit porD (Pyruvate oxidoreductase delta chain) (POR) (Pyruvic-ferredoxin oxidoreductase delta subunit)
+
+ALEMMREMGQ
+A+EM RE   
+AIEMVREV-K
+Hits = 6/10 (60.00%)
+Score = 27
+
+ALEMMREMG
+A+EM RE  
+AIEMVREVK
+Hits = 6/9 (66.67%)
+Score = 31
+
+ALEMMRE-M
+A+EM RE  
+AIEMVREVK
+Hits = 6/9 (66.67%)
+Score = 28
+
+###Number of match sequences: 3
+###Number of hits in all sequences: 18
+###Time in seconds: 32.414
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|20137199|sp|P58553|ACP_ANASP Acyl carrier protein (ACP)
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 23.808
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|128703|sp|P03898|NU3M_BOVIN NADH-UBIQUINONE OXIDOREDUCTASE CHAIN 3
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 40.318
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|129566|sp|P06884|PAHO_FELCA Pancreatic hormone precursor (Pancreatic polypeptide) (PP)
+
+TYNILINGLCNAGSMREGLELMDA
+T +IL  G  +A + RE L  MD 
+TLDILEWGSPHAAAPRE-LSPMDV
+Hits = 13/24 (54.17%)
+Score = 25
+
+###Number of match sequences: 1
+###Number of hits in all sequences: 13
+###Time in seconds: 9.664
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|1345882|sp|P49098|CYB5_TOBAC Cytochrome b5
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 49.996
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|14285407|sp|Q9NZT1|CLSP_HUMAN Calmodulin-like skin protein
+
+LERMVSEFKVNPDN-VTYNTILKAMSKK
+L+ M+ E  V+ D  V Y    + ++  
+LDAMIREADVDQDGRVNYEEFARMLAQE
+Hits = 13/28 (46.43%)
+Score = 27
+
+LERMVSEFKVNPD-NVTYNTILKAMSKKGRLSDLKELLL-
+L +++SE   + D  +++   L A ++K R + L +L   
+LRKLISEVDSDGDGEISFQEFLTA-ARKAR-AGLEDLQVA
+Hits = 21/40 (52.50%)
+Score = 25
+
+LERMVSEFKVNPD-NVTYNTILKAMSKKGRLSDLKELLLD
+L +++SE   + D  +++   L A ++K R + L +L   
+LRKLISEVDSDGDGEISFQEFLTA-ARKAR-AGLEDLQV-
+Hits = 21/40 (52.50%)
+Score = 25
+
+LERMVSEFKVNPD-NVTYNTILKAMSKKGRLSDLKEL-L
+L +++SE   + D  +++   L A ++K R + L +L  
+LRKLISEVDSDGDGEISFQEFLTA-ARKAR-AGLEDLQV
+Hits = 21/39 (53.85%)
+Score = 28
+
+LERMVSEFKVNPD-NVTYNTILKAMSKKGRLSDLKELLL
+L +++SE   + D  +++   L A ++K R + L + L 
+LRKLISEVDSDGDGEISFQEFLTA-ARKAR-AGLED-LQ
+Hits = 21/39 (53.85%)
+Score = 25
+
+###Number of match sequences: 5
+###Number of hits in all sequences: 97
+###Time in seconds: 62.526
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|1731018|sp|P52050|YQGF_ECOLI Hypothetical protein yqgF
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 55.527
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|20140040|sp|Q8XHT6|RS14_CLOPE 30S ribosomal protein S14
+
+SRSYTS
++R+YT 
+TRAYTR
+Hits = 5/6 (83.33%)
+Score = 25
+
+###Number of match sequences: 1
+###Number of hits in all sequences: 5
+###Time in seconds: 8.138
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|123824|sp|P01829|HV2C_RABIT IG HEAVY CHAIN V-A2 REGION P-MU-3 PRECURSOR
+
+MKKVKITPTVSTFNS
+M    +T TVS F+ 
+MDTLTLTCTVSGFSL
+Hits = 8/15 (53.33%)
+Score = 25
+
+###Number of match sequences: 1
+###Number of hits in all sequences: 8
+###Time in seconds: 65.109
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|133843|sp|P24494|R19G_ASCSU 40S RIBOSOMAL PROTEIN S19G (ELIMINATED PROTEIN NO. 1)
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 73.586
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|2498528|sp|Q56071|MARB_SALTY Multiple antibiotic resistance protein marB
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 13.304
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|8473864|sp|O99823|NU3M_RHISA NADH-ubiquinone oxidoreductase chain 3
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 37.791
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|5921943|sp|P81583|CPC4_CANPG CUTICLE PROTEIN CP1499 (CPCP1499)
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 57.927
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|124805|sp|P20846|IOVO_VULGR Ovomucoid
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 7.827
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|139887|sp|P03168|X_HPBGS TRANS-ACTIVATING PROTEIN X (B PROTEIN)
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 47.084
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|417401|sp|P32930|ONCO_HUMAN ONCOMODULIN (OM) (PARVALBUMIN BETA)
+
+ELGLSLEARKLMEQMENDG-VKA
+EL  S E++ LM   +NDG  K 
+ELTES-ETKSLMAAADNDGDGK-
+Hits = 13/23 (56.52%)
+Score = 25
+
+ELGLSLEARKLMEQMENDGVK
+EL  S E++ LM   +NDG  
+ELTES-ETKSLMAAADNDGDG
+Hits = 12/21 (57.14%)
+Score = 28
+
+EDGKLSETDELLKKFSGKFGSMKRDLQVETE-KNPATSESKEE
++ G L E +E LK F  KF S  R+L  E+E K+  ++   + 
+QSGYLDE-EE-LKFFLQKFESGAREL-TESETKSLMAAADNDG
+Hits = 23/43 (53.49%)
+Score = 26
+
+###Number of match sequences: 3
+###Number of hits in all sequences: 48
+###Time in seconds: 42.642
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|1169386|sp|Q06259|DOC_BPP1 DEATH ON CURING PROTEIN
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 64.616
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|12643450|sp|P50049|UREE_BACPA Urease accessory protein ureE
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 77.212
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|2495248|sp|Q44654|IHFB_BUCAP Integration host factor beta-subunit (IHF-beta)
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 32.014
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|6225189|sp|P81563|MM01_RAT Interstitial collagenase (Matrix metalloproteinase-1) (MMP-1) (Fibroblast collagenase) (Myocardial collagenase)
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 0.565
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|122291|sp|P01978|HBA2_TACAC Hemoglobin alpha-2 chain
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 72.06
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|21264105|sp|P83121|UP3_RAT Urinary protein 3 precursor (RUP-3)
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 29.37
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|121114|sp|P22982|HOKC_ECOLI HokC protein (Protein gef)
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 7.582
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|1703633|sp|Q07060|ATP9_PETSP ATP synthase protein 9, mitochondrial (Lipid-binding protein)
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 23.218
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|417713|sp|P32976|RR14_CHLVU CHLOROPLAST 30S RIBOSOMAL PROTEIN S14
+
+KFGSMKRDLQVETEKNPATS-ESKEELNTE
+K+ + +++L VE  K  ATS E K  L+  
+KYAAKRKNLLVEI-KT-ATSLEDKFNLHR-
+Hits = 17/30 (56.67%)
+Score = 27
+
+KFGSMKRDLQVETEKNPATS-ESKEELNT
+K+ + +++L VE  K  ATS E K  L+ 
+KYAAKRKNLLVEI-KT-ATSLEDKFNLH-
+Hits = 17/29 (58.62%)
+Score = 31
+
+KFGSMKRDLQVETEKNPATS-ESKEELN
+K+ + +++L VE  K  ATS E K  L 
+KYAAKRKNLLVEI-KT-ATSLEDKFNL-
+Hits = 16/28 (57.14%)
+Score = 30
+
+KFGSMKRDLQVETEKNPATS-ESK-EE
+K+ + +++L VE  K  ATS E K   
+KYAAKRKNLLVEI-KT-ATSLEDKFNL
+Hits = 15/27 (55.56%)
+Score = 27
+
+KFGSMKRDLQVETEKNPATSESKE
+K+ + +++L VE  K  ATS   +
+KYAAKRKNLLVEI-KT-ATS-LED
+Hits = 14/24 (58.33%)
+Score = 25
+
+KFGSMKRDLQVETEKNPATSESK
+K+ + +++L VE  K  ATS   
+KYAAKRKNLLVEI-KT-ATSLED
+Hits = 13/23 (56.52%)
+Score = 28
+
+KFAD-AKSLLVSYIRTSDASLS
+K+A   K+LLV  I+T+ +SL 
+KYAAKRKNLLVE-IKTA-TSL-
+Hits = 15/22 (68.18%)
+Score = 29
+
+KFAD-AKSLLVSYIRTSDAS
+K+A   K+LLV  I+T+ + 
+KYAAKRKNLLVE-IKTATSL
+Hits = 13/20 (65.00%)
+Score = 26
+
+KFGSMKRDLQVET
+K+ + +++L VE 
+KYAAKRKNLLVE-
+Hits = 9/13 (69.23%)
+Score = 25
+
+###Number of match sequences: 9
+###Number of hits in all sequences: 129
+###Time in seconds: 36.134
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|3914016|sp|O05821|MBTH_MYCTU MbtH protein
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 14.021
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|3024175|sp|P56278|MTC2_HUMAN P13 MTCP-1 protein (Mature T-cell proliferation-1 type B1) (MTCP-1 type B1) (P13MTCP1)
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 31.103
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|14285476|sp|Q44066|HLYA_AERHY Putative alpha-hemolysin
+
+LLIGLVRY
+ LI L+R 
+VLIALIRV
+Hits = 5/8 (62.50%)
+Score = 25
+
+###Number of match sequences: 1
+###Number of hits in all sequences: 5
+###Time in seconds: 20.723
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|2493655|sp|P77913|CH10_NEIGO 10 kDa chaperonin (Protein Cpn10) (groES protein)
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 30.199
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|118006|sp|P00013|CYC_MINSC Cytochrome c
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 32.314
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|124617|sp|P01308|INS_HUMAN Insulin precursor
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 34.353
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|586248|sp|P37989|VMEM_CVB 11.4 kDa membrane protein (ORF 3)
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 36.287
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|13431328|sp|Q9UKR5|CN01_HUMAN Protein C14orf1 (HSPC288) (Protein AD-011) (x0006)
+
+SKALFDIALSAYLHEG
++K+L+ I+L ++L   
+NKTLYHITLWTFLLAL
+Hits = 11/16 (68.75%)
+Score = 27
+
+SKALFDIALSAY-LH
++K+L+ I+L ++ L 
+NKTLYHITLWTFLLA
+Hits = 11/15 (73.33%)
+Score = 27
+
+###Number of match sequences: 2
+###Number of hits in all sequences: 22
+###Time in seconds: 69.82
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|1717954|sp|P00128|UCR7_YEAST Ubiquinol-cytochrome C reductase complex 14 kDa protein (Complex III subunit VII)
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 47.517
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|139451|sp|P06939|VPX_HV2RO VPX PROTEIN (X ORF PROTEIN) (VIRAL ACCESSORY PROTEIN)
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 22.602
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|3122788|sp|O26125|RS14_METTH 30S ribosomal protein S14P
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 3.527
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|6685670|sp|O21520|NULM_MICPE NADH-ubiquinone oxidoreductase chain 4L
+
+ALFDIALSA
+A F+I+L+ 
+AVFNITLAF
+Hits = 7/9 (77.78%)
+Score = 25
+
+###Number of match sequences: 1
+###Number of hits in all sequences: 7
+###Time in seconds: 27.486
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|129412|sp|P00607|PA21_NOTSC Phospholipase A2 homolog 1 (Notechis II-1)
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 20.416
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|1711660|sp|P80585|TBCA_CHICK Tubulin-specific chaperone A (Tubulin-folding cofactor A) (CFA) (TCP1-chaperonin cofactor A)
+
+MISAFCKDKKLKEAYDLLSE-ME-EKGLEPDRFTYNSFISLLMEDGKLSE
+MI   C  ++L  A   L++ +E EK LE     Y    S+L E  KL  
+MIPD-C-QRRLEIAHADLTQLLENEKELEEAE-EYKEARSIL-ESVKLEA
+Hits = 23/50 (46.00%)
+Score = 25
+
+REEKVEK-
+ EEK+EK 
+QEEKIEKM
+Hits = 6/8 (75.00%)
+Score = 25
+
+###Number of match sequences: 2
+###Number of hits in all sequences: 29
+###Time in seconds: 31.402
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|3913099|sp|O30851|ASP2_STRTR HEAT SHOCK PROTEIN HSP.16.4
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 54.876
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|131587|sp|P13402|PUFX_RHOSH Intrinsic membrane protein pufX
+
+VTYGTLIM-GFFREEKVEKALEM-
+V +GTL++ GFFR   V + L + 
+VFFGTLLLIGFFR-V-VGRMLPIQ
+Hits = 15/24 (62.50%)
+Score = 26
+
+VTYGTLIM-GFFREEKVEKALE-
+V +GTL++ GFFR   V + L  
+VFFGTLLLIGFFR-V-VGRMLPI
+Hits = 14/23 (60.87%)
+Score = 25
+
+VTYGTLIM-GFFREEKVEKAL-
+V +GTL++ GFFR   V + L 
+VFFGTLLLIGFFR-V-VGRMLP
+Hits = 14/22 (63.64%)
+Score = 28
+
+VTYGTLIM-GFFREEKVEKALE
+V +GTL++ GFFR   V + L 
+VFFGTLLLIGFFR-V-VGRML-
+Hits = 14/22 (63.64%)
+Score = 28
+
+VTYGTLIM-GFFREEKVEK-
+V +GTL++ GFFR   V + 
+VFFGTLLLIGFFR-V-VGRM
+Hits = 13/20 (65.00%)
+Score = 25
+
+VTYGTLIM-GFFREEKV
+V +GTL++ GFFR    
+VFFGTLLLIGFFRVVGR
+Hits = 11/17 (64.71%)
+Score = 29
+
+VTYGTLIM-GFFR-EE-
+V +GTL++ GFFR    
+VFFGTLLLIGFFRVVGR
+Hits = 11/17 (64.71%)
+Score = 25
+
+###Number of match sequences: 7
+###Number of hits in all sequences: 92
+###Time in seconds: 17.286
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|14285742|sp|Q9TM06|RK19_CYACA Chloroplast 50S ribosomal protein L19
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 31.184
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|116080|sp|P14662|CEC2_MANSE Bactericidin B-2 (Cecropin-like peptide B-2)
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 2.068
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|1175826|sp|P44218|YE93_HAEIN Hypothetical protein HI1493
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 19.235
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|17865581|sp|Q97JK0|RS20_CLOAB 30S ribosomal protein S20
+
+KAMSKKGRLS-DLKELLL
+KA  KK RL+  L  L  
+KAARKKSRLALKLNSLNA
+Hits = 9/18 (50.00%)
+Score = 25
+
+KAMSKKGRLSDLKELLL
+KA  KK RL+ LK L  
+KAARKKSRLA-LK-LNS
+Hits = 10/17 (58.82%)
+Score = 25
+
+KAMSKKGRLSDLKEL-
+KA  KK RL+ LK L 
+KAARKKSRLA-LK-LN
+Hits = 10/16 (62.50%)
+Score = 28
+
+KAMSKKGRLSDLKE
+KA  KK RL+ LK 
+KAARKKSRLA-LKL
+Hits = 9/14 (64.29%)
+Score = 32
+
+KAMSKKGRLSD
+KA  KK RL+ 
+KAARKKSRLAL
+Hits = 7/11 (63.64%)
+Score = 26
+
+KAMSKKGRL-
+KA  KK RL 
+KAARKKSRLA
+Hits = 6/10 (60.00%)
+Score = 25
+
+###Number of match sequences: 6
+###Number of hits in all sequences: 51
+###Time in seconds: 24.287
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|12230668|sp|P75076|YA38_MYCPN Hypothetical protein MPN038 (B01_orf116L)
+
+DKKLKEAY--DLLSEMEEKGLEPD
+DKKL E +  DLL E+ EK     
+DKKL-EVFKQDLLVELSEK-FVTK
+Hits = 13/24 (54.17%)
+Score = 25
+
+###Number of match sequences: 1
+###Number of hits in all sequences: 13
+###Time in seconds: 39.006
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|1169507|sp|P41803|ELI2_PHYCR HIGHLY ACIDIC ELICITIN 20 PRECURSOR
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 35.729
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|1723394|sp|P51233|YCXA_PORPU Hypothetical 7.5 kDa protein in YCF10-PSBI intergenic region (ORF62)
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 10.242
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|6647685|sp|Q9ZZY3|NULM_HIPAM NADH-ubiquinone oxidoreductase chain 4L
+
+EDALGM-LERMVSEF
+E ALG+ L  MVS  
+EAALGLSLLVMVSNT
+Hits = 9/15 (60.00%)
+Score = 26
+
+###Number of match sequences: 1
+###Number of hits in all sequences: 9
+###Time in seconds: 28.512
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|7674239|sp|Q9XD25|RL24_LEPIN 50S RIBOSOMAL PROTEIN L24
+
+MSKKGRLS--DLKEL
+  KK R S  D KEL
+KGKKVRVSIPDKKEL
+Hits = 8/15 (53.33%)
+Score = 25
+
+###Number of match sequences: 1
+###Number of hits in all sequences: 8
+###Time in seconds: 29.675
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|2497744|sp|Q42842|NL43_HORVU NONSPECIFIC LIPID-TRANSFER PROTEIN 4.3 PRECURSOR (LTP 4.3)
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 26.589
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|7388168|sp|Q9XBK3|RS2_BACCE 30S ribosomal protein S2
+
+LLTSLLSSPSL-AKK-PETLVS
+LLTS ++   L AK   ET  +
+LLTSKMADAILEAKQGEETVTA
+Hits = 12/22 (54.55%)
+Score = 25
+
+###Number of match sequences: 1
+###Number of hits in all sequences: 12
+###Time in seconds: 9.742
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|6648004|sp|Q9ZCW9|Y585_RICPR Hypothetical protein RP585
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 53.434
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|12229794|sp|O67151|GCS1_AQUAE Probable glycine cleavage system H protein 1
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 51.44
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|14285483|sp|P73269|HYA2_SYNY3 Probable hydrogenase nickel incorporation protein hypA2
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 36.348
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|3122383|sp|Q92060|MAOX_CHICK NADP-DEPENDENT MALIC ENZYME (NADP-ME)
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 0.367
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|120009|sp|P00201|FER_MEGEL Ferredoxin
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 3.956
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|141494|sp|P20519|YVAJ_VACCC Hypothetical 7.9 kDa protein
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 13.388
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|1723046|sp|Q11012|YD42_MYCTU Hypothetical protein Rv1342c
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 29.393
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|3121928|sp|Q51929|CSPA_PHOMO Major cold-shock protein
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 4.053
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|2497887|sp|P56168|MT21_BRAJU Metallothionein-like protein type 2, MT2-4/MT2-25
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 11.696
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|1172995|sp|P47198|RL22_RAT 60S RIBOSOMAL PROTEIN L22
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 34.153
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|401502|sp|P31172|CCSA_PEA CYTOCHROME C BIOGENESIS PROTEIN CCSA
+
+TLL-IGLVRYPSSFSIS
+ LL IGL  Y  SF+ +
+NLLGIGLHSY-GSFTSN
+Hits = 10/17 (58.82%)
+Score = 31
+
+TLL-IGLVRYPSSF-SI
+ LL IGL  Y  SF S 
+NLLGIGLHSY-GSFTSN
+Hits = 9/17 (52.94%)
+Score = 26
+
+TLL-IGLVRYPSS
+ LL IGL  Y S 
+NLLGIGLHSYGSF
+Hits = 7/13 (53.85%)
+Score = 25
+
+###Number of match sequences: 3
+###Number of hits in all sequences: 26
+###Time in seconds: 7.499
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|112675|sp|P14269|L2MU_ADE02 Late L2 mu core protein precursor (pMu) (11 kDa core protein) (Protein X)
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 10.252
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|267178|sp|P30623|TTHY_TILRU Transthyretin precursor (Prealbumin) (TBPA)
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 47.294
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|1351594|sp|Q09802|YAAB_SCHPO Hypothetical protein C22G7.11c in chromosome I
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 44.239
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|1708163|sp|Q08648|HE2_HUMAN Sperm antigen HE2 precursor
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 23.362
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|3122979|sp|P79357|TSHB_LAMGL Thyrotropin beta chain precursor (Thyroid-stimulating hormone beta subunit) (TSH-beta) (TSH-B)
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 39.233
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|14424098|sp|O66758|Y450_AQUAE Hypothetical protein AQ_450
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 26.385
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|6831603|sp|Q9Y0H7|R37A_MYXGL 60S RIBOSOMAL PROTEIN L37A
+
+###Number of match sequences: 0
+###Number of hits in all sequences: 0
+###Time in seconds: 13.778
+
+
+###Analysing Seq1:				>gi|501|UNKNOWN_1 Unknown Protein
+###With Seq from database:		>gi|20978664|sp|Q9PQH0|RBFA_UREPA Ribosome-binding factor A
+
+EAIAYSDVIDELCSRGRLKEHSR
+E+I Y++ IDEL  + ++K++  
+ETIDYANHIDEL-FK-KIKQQEN
+Hits = 16/23 (69.57%)
+Score = 37
+
+EAIAYSDVIDELCSRGRLKEH-S
+E+I Y++ IDEL  + ++K++ +
+ETIDYANHIDEL-FK-KIKQQEN
+Hits = 17/23 (73.91%)
+Score = 35
+
+EAIAYSDVIDELCSRGRLKEH
+E+I Y++ IDEL  + +  E+
+ETIDYANHIDELFKKIKQQEN
+Hits = 14/21 (66.67%)
+Score = 38
+
+EAIAYSDVIDELCSRGRLKE-
+E+I Y++ IDEL  + +  E 
+ETIDYANHIDELFKKIKQQEN
+Hits = 13/21 (61.90%)
+Score = 29
+
+RGFIVDE-VTYGTLIMGFFREEKVEKA
+R F++DE + Y   I   F+  K +  
+R-FVIDETIDYANHIDELFKKIKQQEN
+Hits = 13/27 (48.15%)
+Score = 25
+
+RGFIVDE-VTYGTLIMGFFREEK-VEK
+R F++DE + Y   I   F+  K  E 
+R-FVIDETIDYANHIDELFKKIKQQEN
+Hits = 13/27 (48.15%)
+Score = 25
+
+EAIAYSDVIDELCSRGRLK-E
+E+I Y++ IDEL  + ++K +
+ETIDYANHIDEL-FK-KIKQQ
+Hits = 15/21 (71.43%)
+Score = 32
+
+EAIAYSDVIDELCSRGRL
+E+I Y++ IDEL  + + 
+ETIDYANHIDELFKKIK-
+Hits = 12/18 (66.67%)
+Score = 27
+
+EAIAYSDVIDELCSR-G
+E+I Y++ IDEL  +  
+ETIDYANHIDELFKKIK
+Hits = 11/17 (64.71%)
+Score = 26
+
+EAIAYSDVIDELCSRGR
+E+I Y++ IDEL  +  
+ETIDYANHIDEL-FKKI
+Hits = 11/17 (64.71%)
+Score = 29
+
+###Number of match sequences: 10
+###Number of hits in all sequences: 135
+###Time in seconds: 45.028
+
+
